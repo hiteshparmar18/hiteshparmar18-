@@ -21,10 +21,10 @@ I'm a software engineer focused on building modern, user-friendly applications u
 - 📚 [**BookLoop**](https://github.com/hiteshparmar18/bookloop)  
   Book explorer with Google Books API, favorites, dark mode & animations.
 
-- 🏘 [**Community System**](#) *(in dev)*  
+- 🏘 [**Community System**](#) *(Coming Soon)*  
   Admin-based platform to manage community member data with a clean UI.
 
-- 🤖 [**AkaAI**](#) *(in dev)*  
+- 🤖 [**AkaAI**](#) *(Coming Soon)*  
   AI-powered study assistant offering notes, summaries, quizzes, and progress tracking.
 
 - 🛡 [**Secure File Storage System**](https://secure-file-storage-system.onrender.com/)  
