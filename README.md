@@ -1,81 +1,82 @@
-# 👋 Hi, I'm Hitesh Parmar
+<h1 align="center">Hi 👋, I'm Hitesh Parmar</h1>
+<h3 align="center">🚀 A passionate Python Developer | Full-Stack Learner | AI Enthusiast</h3>
 
-🚀 Passionate Python & React Developer | AI/ML Explorer
-
-I'm a software engineer focused on building modern, user-friendly applications using Python, React, and emerging AI technologies. Currently learning AI/ML with TensorFlow and working on real-world projects that combine design, data, and smart functionality.
-
----
-
-## 🧰 Tech Stack — What I Work With
-
-### 💻 Languages
-- 🐍 **Python** — My go-to language for building logic-heavy apps and automation.
-- ⚡ **JavaScript** — Powering interactive UIs and web features.
-
-### 🖥️ Frontend
-- ⚛️ **React.js** — Crafting dynamic, component-based user interfaces.
-- 🎨 **Tailwind CSS** — Utility-first styling for sleek, responsive designs.
-- ✨ **Framer Motion** — Smooth animations and transitions for better UX.
-- 🧱 HTML5 & CSS3 — Clean markup and custom styling for modern layouts.
-
-### 🔧 Backend
-- 🔗 **Node.js** & **Express.js** — Building scalable REST APIs and handling server-side logic.
-
-### 🗃️ Databases
-- 🐬 **MySQL** — Relational DB for structured data and backend operations.
-- 🍃 **MongoDB Atlas** — Cloud-based NoSQL DB for modern web apps.
-
-### 🧠 AI / ML Tools
-- 🤖 **TensorFlow** — Powering machine learning projects.
-- 🧠 **OpenAI API** — Enhancing apps with LLMs and intelligent responses.
-
-### 🧪 Tools & Utilities
-- 🔧 **Git & GitHub** — Version control and collaboration.
-- 🧭 **Postman** — API testing and debugging.
-- 🖼️ **Figma** — Designing interfaces before development.
-- 🚀 **Netlify / Render** — Fast deployment for frontend and full-stack apps.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+</p>
 
 ---
 
-
-
-### 📦 Featured Projects
-
-- 📚 [**BookLoop**](https://github.com/hiteshparmar18/bookloop)  
-  Book explorer with Google Books API, favorites, dark mode & animations.
-
-- 🏘 [**Community System**](#) *(Coming Soon)*  
-  Admin-based platform to manage community member data with a clean UI.
-
-- 🤖 [**AkaAI**](#) *(Coming Soon)*  
-  AI-powered study assistant offering notes, summaries, quizzes, and progress tracking.
-
-- 🛡 [**Secure File Storage System**](https://secure-file-storage-system.onrender.com/)  
-  A secure file storage platform built using Python and blockchain concepts.
-
-- 📦 [**Inventory Manager**](https://github.com/hiteshparmar18/inventory-manager)  
-  Desktop app using PyQt5 and MySQL to manage product stock and inventory.
-
-- 🏡 [**Property Rental Web App**](https://propertyrentalwebapplication.netlify.app/)  
-  A modern, responsive property rental website with React and Tailwind CSS.
-
-- 🏥 [**Home HealthCare Services Info**](https://homehealthcare-servicesinfo.netlify.app/)  
-  Informational static website for home healthcare services built with HTML, CSS, and JS.
-
-- 🎓 [**StudentZone**](https://studentzone-new.vercel.app/)  
-  A student dashboard platform built with a clean UI and React stack.
+### 🧑‍💻 About Me:
+- 🔭 I’m currently working on **AI-Powered Study Tool (AkaAI)** & **Community System (Modern UI + Admin Panel)**
+- 🌱 Learning: AI | Machine Learning | Deep Learning | TensorFlow | Data Structures
+- 💡 I love turning ideas into working apps and learning new technologies!
+- 📫 Reach me at: **[hiteshparmar.cse@gmail.com](mailto:hiteshparmar.cse@gmail.com)**  
+- 🌐 Portfolio: [Visit here](https://designndeploy-hitesh-parmar-portfolio.netlify.app/)
 
 ---
 
-### 🌐 Portfolio Website  
-🔗 [Visit My Portfolio](https://designndeploy-hitesh-parmar-portfolio.netlify.app/)
+<!-- Add this inside your README.md -->
+<div align="center">
+
+<!-- Tech stack icons with tooltips -->
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+  <img title="Python" src="https://skillicons.dev/icons?i=python" height="45" />
+  <img title="Jupyter Notebook" src="https://skillicons.dev/icons?i=jupyter" height="45" />
+  <img title="React.js" src="https://skillicons.dev/icons?i=react" height="45" />
+  <img title="Node.js" src="https://skillicons.dev/icons?i=nodejs" height="45" />
+  <img title="Express.js" src="https://skillicons.dev/icons?i=express" height="45" />
+  <img title="MongoDB" src="https://skillicons.dev/icons?i=mongodb" height="45" />
+  <img title="MySQL" src="https://skillicons.dev/icons?i=mysql" height="45" />
+  <img title="HTML5" src="https://skillicons.dev/icons?i=html" height="45" />
+  <img title="CSS3" src="https://skillicons.dev/icons?i=css" height="45" />
+  <img title="JavaScript" src="https://skillicons.dev/icons?i=js" height="45" />
+  <img title="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind" height="45" />
+  <img title="Git" src="https://skillicons.dev/icons?i=git" height="45" />
+  <img title="GitHub" src="https://skillicons.dev/icons?i=github" height="45" />
+</div>
+
+</div>
+
 
 ---
 
-### 📫 Let’s Connect
-- [LinkedIn](https://linkedin.com/in/hiteshparmar18)
-- [GitHub](https://github.com/hiteshparmar18)
+### 📁 Featured Projects
+
+| Project | Description | Live Demo |
+|--------|-------------|-----------|
+| 🔐 Secure File Storage | Upload, encrypt & store your files securely | [Live](https://secure-file-storage-system.onrender.com/) |
+| 📦 Inventory Manager | Manage items with add/update/delete features | [GitHub](https://github.com/hiteshparmar18/inventory-manager) |
+| 🏠 Property Rental Site | Browse or list properties for rent | [Live](https://propertyrentalwebapplication.netlify.app/) |
+| 🩺 HealthCare Info | Healthcare services info with clean UI | [Live](https://homehealthcare-servicesinfo.netlify.app/) |
+| 🧑‍🎓 StudentZone | Student dashboard with modern design | [Live](https://studentzone-new.vercel.app/) |
 
 ---
 
-_“Always learning. Always building.”_
+### 📚 Currently Learning
+- ✅ AI with Python
+- ✅ Machine Learning & Deep Learning
+- ✅ TensorFlow
+- ✅ Framer Motion (Animations in React)
+- ✅ MongoDB Atlas & Cloud Deployments
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hiteshparmar18&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshparmar18&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+### 💬 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/hiteshparmar18" target="_blank"><img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://github.com/hiteshparmar18" target="_blank"><img alt="GitHub" src="https://skillicons.dev/icons?i=github" /></a>
+</p>
+
+---
+
