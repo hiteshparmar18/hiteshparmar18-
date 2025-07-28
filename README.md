@@ -37,7 +37,6 @@ I'm a software engineer focused on building modern, user-friendly applications u
 
 ---
 
-👉 **Hover, click, explore** — Each tool links to what I build. You’ll see these stacks in action across my projects!
 
 
 ### 📦 Featured Projects
