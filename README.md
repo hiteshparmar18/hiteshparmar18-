@@ -6,15 +6,39 @@ I'm a software engineer focused on building modern, user-friendly applications u
 
 ---
 
-### 🛠 Tech Stack
-- **Languages:** Python, JavaScript
-- **Frontend:** React.js, Tailwind CSS, Framer Motion
-- **Backend:** Node.js, Express.js
-- **Databases:** MySQL, MongoDB Atlas
-- **AI/ML:** TensorFlow, OpenAI API
-- **Tools:** Git, GitHub, Figma, Postman, Netlify, Render
+## 🧰 Tech Stack — What I Work With
+
+### 💻 Languages
+- 🐍 **Python** — My go-to language for building logic-heavy apps and automation.
+- ⚡ **JavaScript** — Powering interactive UIs and web features.
+
+### 🖥️ Frontend
+- ⚛️ **React.js** — Crafting dynamic, component-based user interfaces.
+- 🎨 **Tailwind CSS** — Utility-first styling for sleek, responsive designs.
+- ✨ **Framer Motion** — Smooth animations and transitions for better UX.
+- 🧱 HTML5 & CSS3 — Clean markup and custom styling for modern layouts.
+
+### 🔧 Backend
+- 🔗 **Node.js** & **Express.js** — Building scalable REST APIs and handling server-side logic.
+
+### 🗃️ Databases
+- 🐬 **MySQL** — Relational DB for structured data and backend operations.
+- 🍃 **MongoDB Atlas** — Cloud-based NoSQL DB for modern web apps.
+
+### 🧠 AI / ML Tools
+- 🤖 **TensorFlow** — Powering machine learning projects.
+- 🧠 **OpenAI API** — Enhancing apps with LLMs and intelligent responses.
+
+### 🧪 Tools & Utilities
+- 🔧 **Git & GitHub** — Version control and collaboration.
+- 🧭 **Postman** — API testing and debugging.
+- 🖼️ **Figma** — Designing interfaces before development.
+- 🚀 **Netlify / Render** — Fast deployment for frontend and full-stack apps.
 
 ---
+
+👉 **Hover, click, explore** — Each tool links to what I build. You’ll see these stacks in action across my projects!
+
 
 ### 📦 Featured Projects
 
