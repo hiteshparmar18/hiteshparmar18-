@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on **AI-Powered Study Tool (AkaAI)** & **Community System (Modern UI + Admin Panel)**
 - 🌱 Learning: AI | Machine Learning | Deep Learning | TensorFlow | Data Structures
 - 💡 I love turning ideas into working apps and learning new technologies!
-- 📫 Reach me at: **[hiteshparmar.cse@gmail.com](mailto:hiteshparmar.cse@gmail.com)**  
+- 📫 Reach me at: **[parmarhitesh93516@gmail.com](mailto:parmarhitesh93516@gmail.com)**  
 - 🌐 Portfolio: [Visit here](https://designndeploy-hitesh-parmar-portfolio.netlify.app/)
 
 ---
