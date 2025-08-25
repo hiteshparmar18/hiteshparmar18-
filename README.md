@@ -52,6 +52,7 @@
 
 | Project | Description | Demo |
 |--------|-------------|------|
+| 📊 **Student Performance Analyzer** | Python + Tkinter app to analyze student performance CSVs, with charts & top performer analysis | [GitHub](https://github.com/hiteshparmar18/student_performance_analyzer) |
 | 📊 **Sales Performance Tracker** | Python + Tkinter app to analyze weekly sales, with charts & CSV export | [GitHub](https://github.com/hiteshparmar18/sales-tracker-python) 
 | 🌦 **Weather Data Analysis** | Python + Tkinter tool for visualizing and analyzing weather data | [GitHub](https://github.com/hiteshparmar18/weather-analysis-python) |
 | 🔐 **Secure File Storage** | Upload, encrypt & store files securely | [Live](https://secure-file-storage-system.onrender.com/) |
