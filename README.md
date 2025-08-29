@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hitesh Parmar</h1>
-<h3 align="center">🚀 Python Developer | Full-Stack Learner | AI Enthusiast</h3>
+<h3 align="center">🚀 Python Developer | 🌐 Full-Stack Learner | 🤖 AI Enthusiast</h3>
 
 <!-- Animated Terminal -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=$+python3+about_me.py;Hello%2C+I'm+Hitesh+Parmar;Python+Developer+%7C+Full-Stack+Learner+%7C+AI+Enthusiast;Currently+Building:+Sales+Tracker+%26+Weather+Analysis" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=$+python3+about_me.py;Hello%2C+I'm+Hitesh+Parmar;Python+Developer+%7C+Full-Stack+Learner+%7C+AI+Enthusiast;Currently+Building:+Student+Performance+Analyzer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -74,8 +74,20 @@
 
 ### 🏆 Animated Skill Badges
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hiteshparmar18&theme=onedark&no-frame=true&row=1&column=6" />
+  <!-- Typing SVG style -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=⚡+Python+Developer;🌐+Full-Stack+Learner;🤖+AI+%26+ML+Enthusiast;📊+Data+Analytics+Explorer;🚀+Always+Learning+%26+Building" alt="Typing SVG" />
 </p>
+
+<p align="center">
+  <!-- Animated badges -->
+  <img src="https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white&style=for-the-badge&labelColor=black" />
+  <img src="https://img.shields.io/badge/Tkinter-GUI-FF5733?logo=windowsterminal&logoColor=white&style=for-the-badge&labelColor=black" />
+  <img src="https://img.shields.io/badge/NumPy-Data-013243?logo=numpy&logoColor=white&style=for-the-badge&labelColor=black" />
+  <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?logo=plotly&logoColor=white&style=for-the-badge&labelColor=black" />
+  <img src="https://img.shields.io/badge/AI%20%2F%20ML-Enthusiast-FFB800?logo=tensorflow&logoColor=white&style=for-the-badge&labelColor=black" />
+  <img src="https://img.shields.io/badge/GitHub-Open%20Source-181717?logo=github&logoColor=white&style=for-the-badge&labelColor=black" />
+</p>
+
 
 ---
 
@@ -89,18 +101,27 @@
 ---
 
 ### 📊 GitHub Stats & Activity
+<!-- Animated Typing Heading -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hiteshparmar18&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshparmar18&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=⚡+GitHub+Stats+%26+Activity;🔥+Keep+Pushing+Code+Everyday;🚀+Consistency+Builds+Mastery" alt="Typing SVG" />
 </p>
 
+<!-- Stats Cards -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiteshparmar18&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hiteshparmar18&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshparmar18&layout=compact&theme=radical&hide_border=true" height="180" />
 </p>
 
+<!-- Streak Stats with Fire Animation -->
 <p align="center">
-  <img src="https://github-contribution-graph.ez4o.com/?username=hiteshparmar18&theme=tokyonight&radius=8" />
+  <img src="https://streak-stats.demolab.com?user=hiteshparmar18&theme=radical&hide_border=true&ring=FF4500&fire=FF6347&currStreakLabel=FFD700" height="180"/>
 </p>
+
+<!-- Snake Animation Contribution Graph -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hiteshparmar18/hiteshparmar18/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
 
 ---
 
