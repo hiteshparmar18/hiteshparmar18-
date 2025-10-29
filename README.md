@@ -3,7 +3,7 @@
 
 <!-- Animated Terminal -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=$+python3+about_me.py;Hello%2C+I'm+Hitesh+Parmar;Python+Developer+%7C+Full-Stack+Learner+%7C+AI+Enthusiast;Currently+Building:+Student+Performance+Analyzer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=$+python3+about_me.py;Hello%2C+I'm+Hitesh+Parmar;Python+Developer+%7C+Full-Stack+Learner+%7C+AI+Enthusiast;Currently+Building:+Personal+Finance+Dashboard" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -52,6 +52,7 @@
 
 | Project | Description | Demo |
 |--------|-------------|------|
+| 💰 **Personal Finance Dashboard** | Analyze income/expenses from CSV/Excel, smart categorization, visual insights, future savings prediction | [GitHub](https://github.com/hiteshparmar18/personal-finance-dashboard) |
 | 📊 **Student Performance Analyzer** | Python + Tkinter app to analyze student performance CSVs, with charts & top performer analysis | [GitHub](https://github.com/hiteshparmar18/student_performance_analyzer) |
 | 📊 **Sales Performance Tracker** | Python + Tkinter app to analyze weekly sales, with charts & CSV export | [GitHub](https://github.com/hiteshparmar18/sales-tracker-python) 
 | 🌦 **Weather Data Analysis** | Python + Tkinter tool for visualizing and analyzing weather data | [GitHub](https://github.com/hiteshparmar18/weather-analysis-python) |
