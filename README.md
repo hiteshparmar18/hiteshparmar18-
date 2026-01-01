@@ -137,7 +137,6 @@
 ---
 
 ### 📊 GitHub Stats & Activity
-### 📊 GitHub Stats & Activity
 
 ```text
 🚀 Building projects continuously
