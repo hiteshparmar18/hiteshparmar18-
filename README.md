@@ -137,33 +137,61 @@
 ---
 
 ### 📊 GitHub Stats & Activity
+### 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=hiteshparmar18&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-</p>
+```text
+🚀 Building projects continuously
+📈 Improving skills with every commit
+🧠 Learning AI, Data & Full-Stack development
+⚡ Writing clean, scalable code
+🔁 Consistency over intensity
+```
+### 📊 GitHub Activity Snapshot
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshparmar18&layout=compact&theme=tokyonight&hide_border=true"
-    height="160"
-  />
-</p>
+**Python & Data**  
+`████████████████████░░░░░░` 85%
 
+**AI / ML**  
+`██████████████████░░░░░░░░` 75%
 
+**Data Visualization (Power BI / Tableau)**  
+`████████████████░░░░░░░░░░` 70%
+
+**Web Development**  
+`███████████████░░░░░░░░░░░` 65%
+
+**Consistency & Learning**  
+`██████████████████████░░░░` 90%
 
 ---
 
 ### 💬 Connect with Me
+
 <p align="center">
-  <a href="https://linkedin.com/in/hiteshparmar18" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://github.com/hiteshparmar18" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+  <a href="https://linkedin.com/in/hiteshparmar18" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/hiteshparmar18" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="42" />
+  </a>
 </p>
+
+<p align="center">
+  <sub>Let’s connect, collaborate, and build impactful solutions 🚀</sub>
+</p>
+
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hiteshparmar18&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
+  <img 
+    src="https://komarev.com/ghpvc/?username=hiteshparmar18&label=Profile%20Views&color=0E75B6&style=for-the-badge"
+    alt="Profile Views"
+  />
 </p>
+
+<p align="center">
+  <sub>Thanks for visiting my profile 👋</sub>
+</p>
+
