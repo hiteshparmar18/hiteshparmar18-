@@ -71,6 +71,7 @@
 | Project | Description | Demo |
 |--------|-------------|------|
 | 🌸 **Iris Flower Intelligence** | Production-style machine learning dashboard with model comparison (KNN & Logistic Regression), analytics, explainability, prediction confidence, and modern Streamlit UI | [GitHub](https://github.com/hiteshparmar18/iris-flower-intelligence) |
+| 📊 **Power BI Sales Analytics Dashboard** | End-to-end Power BI project with multi-page dashboards (Overview, Sales, Region, Customer, Product, Employee), DAX-driven KPIs, interactive navigation, and dynamic filters for real business insights. | [GitHub](https://github.com/hiteshparmar18/powerbi-sales-analytics-dashboard) |
 | 💰 **Personal Finance Dashboard** | Analyze income/expenses from CSV/Excel, smart categorization, visual insights, future savings prediction | [GitHub](https://github.com/hiteshparmar18/personal-finance-dashboard) |
 | 📊 **Student Performance Analyzer** | Python + Tkinter app to analyze student performance CSVs, with charts & top performer analysis | [GitHub](https://github.com/hiteshparmar18/student_performance_analyzer) |
 | 📊 **Sales Performance Tracker** | Python + Tkinter app to analyze weekly sales, with charts & CSV export | [GitHub](https://github.com/hiteshparmar18/sales-tracker-python) |
