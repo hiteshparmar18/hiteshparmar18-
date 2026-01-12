@@ -39,7 +39,7 @@
 - 🌱 Actively learning **AI, Machine Learning, Deep Learning, TensorFlow & DSA**
 - 💡 Passionate about transforming ideas into **scalable, real-world solutions**
 - 📫 Reach me at: **[parmarhitesh93516@gmail.com](mailto:parmarhitesh93516@gmail.com)**
-- 🌐 Explore my work: **[Portfolio Website](https://designndeploy-hitesh-parmar-portfolio.netlify.app/)**
+- 🌐 Explore my work: **[Portfolio Website](https://hitesh-parmar-portfolio.lovable.app/)**
 
 
 ---
