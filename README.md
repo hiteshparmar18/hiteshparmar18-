@@ -39,7 +39,7 @@
 - 🌱 Actively learning **AI, Machine Learning, Deep Learning, TensorFlow & DSA**
 - 💡 Passionate about transforming ideas into **scalable, real-world solutions**
 - 📫 Reach me at: **[parmarhitesh93516@gmail.com](mailto:parmarhitesh93516@gmail.com)**
-- 🌐 Explore my work: **[Portfolio Website](https://hitesh-parmar-portfolio.lovable.app/)**
+- 🌐 Explore my work: **[Portfolio Website](https://hitesh-portfolio-eta.vercel.app/)**
 
 
 ---
@@ -70,6 +70,7 @@
 
 | Project | Description | Demo |
 |--------|-------------|------|
+| 📊 **Global University Success Analysis** | End-to-end Power BI analytics dashboard analyzing 1,247 universities across 3 global ranking systems (CWUR, Shanghai, Times HE) with star-schema data modeling, DAX measures, and 3 interactive dashboards | [GitHub](https://github.com/hiteshparmar18/Global-University-Success-Analysis) |
 | 🌸 **Iris Flower Intelligence** | Production-style machine learning dashboard with model comparison (KNN & Logistic Regression), analytics, explainability, prediction confidence, and modern Streamlit UI | [GitHub](https://github.com/hiteshparmar18/iris-flower-intelligence) |
 | 📊 **Power BI Sales Analytics Dashboard** | End-to-end Power BI project with multi-page dashboards (Overview, Sales, Region, Customer, Product, Employee), DAX-driven KPIs, interactive navigation, and dynamic filters for real business insights. | [GitHub](https://github.com/hiteshparmar18/powerbi-sales-analytics-dashboard) |
 | 💰 **Personal Finance Dashboard** | Analyze income/expenses from CSV/Excel, smart categorization, visual insights, future savings prediction | [GitHub](https://github.com/hiteshparmar18/personal-finance-dashboard) |
