@@ -70,6 +70,7 @@
 
 | Project | Description | Demo |
 |--------|-------------|------|
+| 🧠 **Fake News AI — Detection System** | Fake News AI is a full-stack machine learning web application that classifies news articles as **Real** or **Fake** with a confidence score. Built with a **Passive Aggressive Classifier** trained on TF-IDF features, it also highlights the key signal words that drove the prediction — making the AI fully explainable. | [Live](https://github.com/hiteshparmar18/Global-University-Success-Analysis) |
 | 📊 **Global University Success Analysis** | End-to-end Power BI analytics dashboard analyzing 1,247 universities across 3 global ranking systems (CWUR, Shanghai, Times HE) with star-schema data modeling, DAX measures, and 3 interactive dashboards | [GitHub](https://github.com/hiteshparmar18/Global-University-Success-Analysis) |
 | 🌸 **Iris Flower Intelligence** | Production-style machine learning dashboard with model comparison (KNN & Logistic Regression), analytics, explainability, prediction confidence, and modern Streamlit UI | [GitHub](https://github.com/hiteshparmar18/iris-flower-intelligence) |
 | 📊 **Power BI Sales Analytics Dashboard** | End-to-end Power BI project with multi-page dashboards (Overview, Sales, Region, Customer, Product, Employee), DAX-driven KPIs, interactive navigation, and dynamic filters for real business insights. | [GitHub](https://github.com/hiteshparmar18/powerbi-sales-analytics-dashboard) |
